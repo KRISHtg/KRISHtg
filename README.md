@@ -5,8 +5,6 @@
          
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&rcenter=true&lines=WELCOME+TO+MY+PROFILE&width=600&height=180" style="font-size: smaller;">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-
 
 ![Murali](https://media.giphy.com/media/iuMqhDxbEpekk31eQN/giphy.gif)
 
