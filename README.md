@@ -2,14 +2,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm KRISH</h1>
-
-<!---
-KRISHtg/KRISHtg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<p align="center"> 
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=𝗞𝗥𝗜𝗦𝗛&height=100&section=header"/> 
- </p> 
+         
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&lines=WELCOME+TO+MY+PROFILE&width=600&height=180" style="font-size: smaller;">
